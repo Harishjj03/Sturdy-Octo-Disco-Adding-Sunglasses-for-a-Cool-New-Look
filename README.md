@@ -1,5 +1,4 @@
-# Sturdy-Octo-Disco-Adding-Sunglasses-for-a-Cool-New-Look
-## Name :HARISHBALA J
+
 ## Reg NO : 212224223002
 
 Sturdy Octo Disco is a fun project that adds sunglasses to photos using image processing.
@@ -96,9 +95,9 @@ plt.show()
 
 ```
 ## OUTPUT
-<img width="439" height="540" alt="Screenshot 2026-02-03 102351" src="https://github.com/user-attachments/assets/36889dd9-7212-4e79-8492-4e3ff84e4076" />
-<img width="705" height="291" alt="Screenshot 2026-02-03 102356" src="https://github.com/user-attachments/assets/c659285b-7528-430b-8860-ca395850ac43" />
-<img width="742" height="306" alt="Screenshot 2026-02-03 102402" src="https://github.com/user-attachments/assets/3222828e-7a71-4bee-8f84-c8de569328ab" />
-<img width="613" height="773" alt="Screenshot 2026-02-03 102408" src="https://github.com/user-attachments/assets/b67c867f-0618-4249-83f0-b2ae21af495b" />
 
+<img width="452" height="529" alt="Screenshot 2026-02-09 112734" src="https://github.com/user-attachments/assets/8e3a5f73-680a-4037-a10f-bd8a27d065fc" />
+<img width="682" height="295" alt="Screenshot 2026-02-09 112747" src="https://github.com/user-attachments/assets/481e86f6-fba0-447b-9af9-aa415fd3dc33" />
+<img width="775" height="300" alt="Screenshot 2026-02-09 112807" src="https://github.com/user-attachments/assets/38fcde41-ec58-4bbe-a4b4-6a007b4bd111" />
+<img width="685" height="729" alt="Screenshot 2026-02-09 112822" src="https://github.com/user-attachments/assets/5489d7ea-d89f-4461-a136-428005d1981b" />
 
