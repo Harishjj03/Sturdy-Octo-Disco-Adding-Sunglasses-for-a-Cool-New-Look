@@ -1,4 +1,4 @@
-
+## Name : HARISHBALA J
 ## Reg NO : 212224223002
 
 Sturdy Octo Disco is a fun project that adds sunglasses to photos using image processing.
